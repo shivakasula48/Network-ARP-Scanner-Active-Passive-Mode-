@@ -1,4 +1,4 @@
-# Network-ARP-Scanner-Active-Passive-Mode-
+
 
 # 🔍 Network ARP Scanner (Active & Passive Mode)
 
@@ -41,14 +41,7 @@ cd network-arp-scanner
 pip install -r requirements.txt
 ```
 
-> `requirements.txt` contents:
 
-```
-scapy
-tqdm
-tabulate
-colorama
-```
 
 ---
 
