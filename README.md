@@ -100,12 +100,6 @@ IP,MAC,Hostname
 192.168.1.12,78:4f:43:b5:11:7a,android-93ba1f5.local
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute with proper credit.
 
 ---
 
